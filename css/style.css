@@ -268,6 +268,7 @@ header .card__title {
 
 .article__text {
   font-size: 18px;
+  line-height: 1.5;
   font-weight: 100;
   font-family: 'Lato', sans-serif;
   margin-bottom: 30px;
@@ -293,6 +294,9 @@ header .card__title {
   display: flex;
   align-items: center;
   flex-direction: column;
+}
+.article-content-wrapper{
+  margin-top: 50px;
 }
 
 .load-more-button {
